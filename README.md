@@ -15,8 +15,9 @@
     * Modal Observer (Post Observer)
     * Custom Middleware (AUthReasource)
 ## Backend example
-![Dashboard image](/demo/dashboard.png)
-![Dashboard Image](/demo/dashboard2.png)
+![Dashboard image](/demo/admin1.png)
+![Dashboard Image](/demo/admin2.png)
+![Dashboard Image](/demo/create.png)
 ## Frontend example
 ![Dashboard image](/demo/screen1.png)
 ![Dashboard Image](/demo/screen2.png)
