@@ -31,8 +31,12 @@ class PostController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function create()
-    {
-        return view('back.posts.create');
+    {  
+        $categories = Category::all(); // Or fetch specific categories
+        return view('back.posts.create', [
+            'categories' => $categories
+        ]);
+        // return view('back.posts.create');
     }
 
     /**
@@ -47,6 +51,7 @@ class PostController extends Controller
         if($request->has('image')){
             $this->uploadImage($request);
         }
+        // dd($request);
         $request->user()->posts()->create($request->post());
 
         return redirect()->route('posts.index')->with('message', 'Post created successfully');

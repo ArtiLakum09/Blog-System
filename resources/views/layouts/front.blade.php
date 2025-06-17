@@ -6,7 +6,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>Saka Pro</title>
+    <title>Arti Blog</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -102,8 +102,8 @@
             <div class="row">
                 <div class="column">
                     <div class="ss-copyright">
-                        <span>© Copyright Calvin 2020</span>
-                        <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+                        <span>© Copyright Arti 2025</span>
+                        <span>Design by Arti</span>
                     </div> <!-- end ss-copyright -->
                 </div>
             </div>
