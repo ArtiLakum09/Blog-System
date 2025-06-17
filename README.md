@@ -18,5 +18,5 @@
 ![Dashboard Image](/demo/admin2.png)
 ![Dashboard Image](/demo/create.png)
 ## Frontend example
-![Dashboard image](/demo/screen1.png)
+![Dashboard image](/demo/web.png)
 ![Dashboard Image](/demo/screen2.png)
